@@ -1,19 +1,18 @@
 # Hi 👋, I'm Syno Sahil  
 
-🚀 Tech enthusiast | 💻 Linux Explorer | 🌐 Web Developer (in progress) | 🔐 Pentesting Learner  
+🚀 Tech Enthusiast | 🐧 Linux Explorer | 🌐 Aspiring Full-Stack Developer | 🔐 Pentesting Learner  
 
 ---
 
 ## 🧑‍💻 About Me
-- Passionate about **Linux systems** and **open-source technology**  
-- Exploring **Web Development** to reach expert level  
-- Interested in **Pentesting & Cybersecurity**  
-- Obsessed with **cars, bikes, and tech innovations** since childhood  
-- Dreaming big: to live free, powerful, and on my own terms ✨  
+I’m a passionate learner who believes technology is not just about coding but about **building, securing, and creating meaningful experiences**.  
+Currently, I’m exploring **Web Development** and **Cybersecurity**, while also expressing creativity through **writing and digital content**.  
+
+Beyond tech, I’m fascinated by **cars, bikes, and storytelling**, and I aim to blend creativity with technology in everything I do.  
 
 ---
 
-## 🛠️ Tech & Tools I Work With  
+## 🛠️ Skills & Tools  
 
 ### 💻 Programming & Development
 <p>
@@ -48,11 +47,29 @@
 
 ---
 
+## 📚 Currently Learning
+- 🌐 Full-Stack Web Development 
+- 🔐 Cybersecurity & Pentesting essentials  
+- ✍️ Writing & Storytelling 
+
+---
+
 ## 🌟 Goals
-- Become an **expert in Web Development**  
-- Build **projects that merge creativity with technology**  
-- Grow in **cybersecurity knowledge**  
-- Share my journey, experiences, and creations online  
+- Build strong expertise in **Web Development**  
+- Advance into **Cybersecurity & Ethical Hacking**  
+- Create projects that merge **creativity and technology**  
+- Share my journey & knowledge through **content and community**  
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=synosahil&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synosahil&layout=compact&theme=radical" height="165"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=synosahil&theme=radical" height="165"/>
+</p>  
 
 ---
 
