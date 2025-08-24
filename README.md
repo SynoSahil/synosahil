@@ -13,34 +13,38 @@
 
 ---
 
-## 🛠️ Tech & Tools I Work With
+## 🛠️ Tech & Tools I Work With  
+
 ### 💻 Programming & Development
-- **HTML5, CSS3, JavaScript (learning full-stack)**  
-- **Python** (beginner-friendly scripts & utilities)  
-- **C / C++** (academic & system-level basics)  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>  
 
 ### 🐧 Linux & Systems
-- **Linux Mint** (used to be daily driver)  
-- **Debian** (is a daily driver and exploring for stability & server use)  
-- **Virtualization & VMs** (Windows VM for compatibility, experimenting with dual-boot setups)  
-- **Bash scripting** (automation basics)  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</p>  
 
 ### 🔐 Cybersecurity & Pentesting
-- Learning **penetration testing fundamentals**  
-- Exploring **network security tools**  
-- Experimenting with **ethical hacking workflows**  
+<p>
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-grey?logo=kalilinux&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-blue?logo=securityscorecard&logoColor=white&style=for-the-badge"/>
+</p>  
 
 ### 🎨 Creative & Productivity Tools
-- **CapCut** & **InShot** (video editing)  
-- **Canva** (design)  
-- **Discord** (collaboration & workflow)  
-
----
-
-## 📚 Currently Learning
-- Full-Stack Web Development (via CodeWithHarry’s Sigma course)  
-- Cybersecurity & Pentesting essentials  
-- Writing & Storytelling (Wattpad projects like *Pranashakti*)  
+<p>
+  <img src="https://img.shields.io/badge/CapCut-black?logo=capcut&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/InShot-pink?logo=inshot&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
+</p>  
 
 ---
 
