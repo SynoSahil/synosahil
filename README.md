@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 I’m a passionate learner who believes technology is not just about coding but about **building, securing, and creating meaningful experiences**.  
-Currently, I’m exploring **Web Development** and **Cybersecurity**, while also expressing creativity through **writing and digital content**.  
+Currently, I’m exploring **Web Development**, while also expressing creativity through **writing and digital content**.  
 
 Beyond tech, I’m fascinated by **cars, bikes, and storytelling**, and I aim to blend creativity with technology in everything I do.  
 
@@ -29,13 +29,7 @@ Beyond tech, I’m fascinated by **cars, bikes, and storytelling**, and I aim to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-</p>  
-
-### 🔐 Cybersecurity & Pentesting
-<p>
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-grey?logo=kalilinux&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-blue?logo=securityscorecard&logoColor=white&style=for-the-badge"/>
-</p>  
+</p>   
 
 ### 🎨 Creative & Productivity Tools
 <p>
@@ -49,14 +43,12 @@ Beyond tech, I’m fascinated by **cars, bikes, and storytelling**, and I aim to
 
 ## 📚 Currently Learning
 - 🌐 Full-Stack Web Development 
-- 🔐 Cybersecurity & Pentesting essentials  
 - ✍️ Writing & Storytelling 
 
 ---
 
 ## 🌟 Goals
 - Build strong expertise in **Web Development**  
-- Advance into **Cybersecurity & Ethical Hacking**  
 - Create projects that merge **creativity and technology**  
 - Share my journey & knowledge through **content and community**  
 
