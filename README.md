@@ -54,17 +54,6 @@ Beyond tech, I’m fascinated by **cars, bikes, and storytelling**, and I aim to
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=synosahil&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synosahil&layout=compact&theme=radical" height="165"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=synosahil&theme=radical" height="165"/>
-</p>  
-
----
-
 ## 📫 Connect with Me
 - **GitHub**: [synosahil](https://github.com/synosahil)  
 - **Instagram**: [synosahil](https://instagram.com/synosahil)   
